@@ -1,0 +1,16 @@
+.varela-round-regular {
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.flamenco-light {
+  font-family: "Flamenco", system-ui;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.flamenco-regular {
+  font-family: "Flamenco", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
